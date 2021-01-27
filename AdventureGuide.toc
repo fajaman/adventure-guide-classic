@@ -1,0 +1,7 @@
+﻿## Interface: 11200
+## Title: AdventureGuide
+## Notes: WIP
+EncounterData.lua
+Constants.lua
+AdventureGuide.lua
+AdventureGuide.xml
