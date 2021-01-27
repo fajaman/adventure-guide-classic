@@ -1,6 +1,7 @@
-﻿## Interface: 11200
+﻿## Interface: 11306
 ## Title: AdventureGuide
-## Notes: WIP
+## Notes: Displays information about Classic encounters
+## Version: 1.1.2
 EncounterData.lua
 Constants.lua
 AdventureGuide.lua
